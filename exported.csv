@@ -1,6 +1,6 @@
-Client Id,Client Name,Annual Billing,Terminated/Annual Billing,C.Forenames/Main,A.Addr1/Main,A.Addr2/Main,A.Addr3/Main,A.Email/Main,A.Postcode/Main,A.Tel/Main,Type,Manager Id,Co.Reg.No.,Bus.Type,P/e/C/Book Keeping,P/e/C/Statutory Format Management Accounts,P/e/C/VAT,A.Town/Main,Yr End Month,P/e/C/Accounts
-,,,,,,,,,,,,,,,,,,,,
-ALM001,Almond Valley Property Centre,Y,,Adrian,7-8 Inchwood Park,,,adriankay@tobewed.co.uk,EH48 2FY,01506 464619,Business,GB,,Partnership,,,,Bathgate,Mar,31/03/2020
-AYE002,Aye Pickled,Y,,,Midlothian Innovation Centre,Pentlandfield Business Park,,hello@ayepickled.com,EH25 9RE,07551 747373,Business,GB,,Sole Trade,,,,Roslin,Apr,
-BRO007,Brodie & Walls LLP,Y,,Lee Victor,21A-21B Grange Road,Houston Industrial Estate,,lee.brodie@hotmail.co.uk,EH54 5DE,01506 238981,Business,GB,SO305300,Ltd Liability Partnership,,,,Livingston,Sep,30/09/2019
-DAV003,David Morton (Larbert) Limited,Y,,Williamina Margaret,Glen Works,Glen Village,,Office@davidmortonltd.co.uk,FK1 2BQ,01324 612876,Business,GB,SC059245,Ltd Co.,31/01/2020,,31/03/2020,Falkirk,Sep,30/09/2019
+Client Id,Client Name,Annual Billing,Terminated/Annual Billing,C.Forenames/Main,A.Addr1/Main,A.Addr2/Main,A.Addr3/Main,A.Email/Main,A.Postcode/Main,A.Tel/Main,Type,Manager Id,Co.Reg.No.,Bus.Type,P/e/C/Book Keeping,P/e/C/Statutory Format Management Accounts,P/e/C/VAT,A.Town/Main,Yr End Month,P/e/C/Accounts,C.Informal/Main,C.Surname/Main,C.Title/Main
+,,,,,,,,,,,,,,,,,,,,,,,
+ACO001,The Acoustic Music Workshop,Y,,Edis,Office 7,Friarton House,Friarton Road,edis.bowden@btinternet.com,PH2 8DG,,Business,GB,,Partnership,,,,Perth,Mar,31/03/2020,Edis,Bowden,Mr
+AYE002,Aye Pickled,Y,,,Midlothian Innovation Centre,Pentlandfield Business Park,,hello@ayepickled.com,EH25 9RE,07551 747373,Business,GB,,Sole Trade,,,,Roslin,Apr,31/03/20,,,
+BRO007,Brodie & Walls LLP,Y,,Lee Victor,21A-21B Grange Road,Houston Industrial Estate,,lee.brodie@hotmail.co.uk,EH54 5DE,01506 238981,Business,GB,SO305300,Ltd Liability Partnership,,,,Livingston,Sep,30/09/2019,Lee,Brodie,Mr
+DAV003,David Morton (Larbert) Limited,Y,,Williamina Margaret,Glen Works,Glen Village,,Office@davidmortonltd.co.uk,FK1 2BQ,01324 612876,Business,GB,SC059245,Ltd Co.,29/02/2020,31/03/20,31/03/2020,Falkirk,Sep,30/09/2019,Wilma,Morton,Mrs
